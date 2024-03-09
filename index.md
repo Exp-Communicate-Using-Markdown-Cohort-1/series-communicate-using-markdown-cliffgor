@@ -6,3 +6,9 @@
   ```
     console.log("Cliff");
 ```
+# Task List for what we have to do
+- [x] Added Header
+- [x] Added IMAGE
+- [ ] Added Js code
+
+
